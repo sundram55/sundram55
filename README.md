@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about using data to uncover insights and drive decisions. With expertise in SQL, MySQL, Power BI, Excel, and Python, I'm eager to contribute to analytical projects and solve real-world business problems.
 
+### 🚀 Skills & Tools:
+
+[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](#)
+[![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+
+
 ## 📌 About Me
 - 📊 **Aspiring Data Analyst**
 - 📚 **Completed Data Science Bootcamp at OdinSchool**
@@ -21,6 +30,13 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about usin
 🔗 **Check out my repositories for more projects!**
 
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundrammishra55/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sundrammishra.my.canva.site/)
+[![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](sundrammishra5556@gmail.com)
+
+---
 <!---
 sundram55/sundram55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
