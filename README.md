@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about usin
 - 📊 **Aspiring Data Analyst**
 - 📚 **Completed Data Science Bootcamp at OdinSchool**
 - 🎯 **Proficient in SQL, Power BI, Python, and Excel**
-- 📩 **Reach me at:** sundrammishra5556@gmail.com | https://www.linkedin.com/in/sundrammishra55/
+- 📩 **Reach me at:** sundrammishra5556@gmail.com
 
 ## 🔧 Tools & Technologies
 - **SQL** | **MySQL** | **Power BI** | **Excel** | **Python**
@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I'm an aspiring Data Analyst passionate about usin
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundrammishra55/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sundrammishra.my.canva.site/)
 [![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](sundrammishra5556@gmail.com)
 
 ---
